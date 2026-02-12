@@ -1,16 +1,19 @@
-<h1 align="center">Shivangi Ahuja 👩‍💻</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,5&text=Shivangi%20Ahuja%20👑&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
 <p align="center">
   <b>AI Engineer in Progress • Full Stack Builder • Tech Explorer</b>
 </p>
 
 <p align="center">
-  Turning complex ideas into scalable, intelligent, and beautiful systems ✨
+  Designing intelligent systems with elegance & logic ✨
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F472B6&center=true&vCenter=true&width=600&lines=AI+%26+Software+Developer;Frontend+Enthusiast;LLM+Explorer;Building+with+Logic+%26+Elegance+🌸" />
 </p>
+
 
 ---
 
