@@ -1,0 +1,19 @@
+<svg width="600" height="40" viewBox="0 0 600 40" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .sparkle {
+      fill: #ff69b4;
+      opacity: 0.8;
+      animation: twinkle 2s infinite ease-in-out alternate;
+    }
+    @keyframes twinkle {
+      from { opacity: 0.3; }
+      to { opacity: 1; }
+    }
+  </style>
+
+  <circle class="sparkle" cx="100" cy="20" r="3"/>
+  <circle class="sparkle" cx="200" cy="15" r="4"/>
+  <circle class="sparkle" cx="300" cy="22" r="3"/>
+  <circle class="sparkle" cx="400" cy="18" r="4"/>
+  <circle class="sparkle" cx="500" cy="20" r="3"/>
+</svg>
