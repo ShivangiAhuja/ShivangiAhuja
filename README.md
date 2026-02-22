@@ -81,13 +81,9 @@ I don’t just write code — I design experiences and engineer solutions.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivangiAhuja&theme=radical&hide_border=true"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=ShivangiAhuja&theme=radical&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivangiAhuja&theme=radical&layout=compact&hide_border=true"/>
-</p>
 
 ---
 
@@ -95,14 +91,6 @@ I don’t just write code — I design experiences and engineer solutions.
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShivangiAhuja&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
 </p>
 
 ---
