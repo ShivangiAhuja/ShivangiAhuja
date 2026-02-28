@@ -39,7 +39,7 @@ I don’t just write code — I design experiences and engineer solutions.
 # 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/ShivangiAhuja/ShivangiAhuja/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ShivangiAhuja/ShivangiAhuja/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
