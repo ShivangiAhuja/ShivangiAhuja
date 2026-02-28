@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>AI Engineer in Progress • Full Stack Builder • Tech Explorer</b>
+  <b>AI Engineer • Full Stack Builder • Tech Explorer</b>
 </p>
 
 <p align="center">
