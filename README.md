@@ -81,7 +81,7 @@ I don’t just write code — I design experiences and engineer solutions.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ShivangiAhuja&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=ShivangiAhuja&theme=radical&hide_border=true"/>
 </p>
 
 
